@@ -19,4 +19,4 @@ public class kadanalgo {
         kadan(number);
     } 
 }
-  
+   
