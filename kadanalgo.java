@@ -13,7 +13,7 @@ public class kadanalgo {
         }
         System.out.println("our max subarray sum is :"+ms);
     } 
-
+           
     public static void main(String[] args) {
         int number[]={-2,-4,-6,-8,-10};
         kadan(number);
