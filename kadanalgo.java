@@ -18,5 +18,5 @@ public class kadanalgo {
         int number[]={-2,-4,-6,-8,-10};
         kadan(number);
     } 
-}
+}    
    
