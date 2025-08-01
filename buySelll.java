@@ -15,7 +15,7 @@ public class buySelll {
             return maxProfit;
         }
         public static void main(String[] args) {
-            int prices[]={7,1,5,3,6,9};
+            int prices[]={7,1,5,3,6,9};//[7,6,4,3,1]
             System.out.println(buyAndsellstocks(prices));
         }
         
